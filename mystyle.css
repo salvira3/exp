@@ -1,3 +1,15 @@
+body {
+  font-family: 'Source Sans Pro';
+}
 .tes {
-  color: skyblue;
+  color: white;
+}
+.test-border {
+  background-color: skyblue;
+  border-radius: 20px;
+}
+.bg-home {
+  background-image: url('https://i.ibb.co/DDMfMGd/beautiful-close-up-color-2971756.jpg');
+  background-repeat: no-repeat;
+  min-height: 400px;
 }
