@@ -1,1 +1,1 @@
-Hello, I'm still using html css only. If you want to add some styles to the page, please put it on idex.html internal css because some styles don't work with external css (will fix it later tho). Thank you!
+Hello, I'm still using html css only. If you want to add some styles to the page, please put it on index.html internal css because some styles don't work with external css (will fix it later tho). Thank you!
